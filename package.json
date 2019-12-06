@@ -1,6 +1,6 @@
 {
   "name": "test-component-sc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "libreria di test npm ",
   "main": "index.js",
   "scripts": {
